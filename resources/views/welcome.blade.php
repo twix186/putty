@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel lavarel
+                    Laravel lavarel dsadas
                 </div>
 
                 <div class="links">
